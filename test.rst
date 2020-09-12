@@ -1,3 +1,3 @@
 .. container:: custom
 
-<<script>alert(document.cookie)//<</script>
+Set.constructor`alert\x28document.domain\x29``

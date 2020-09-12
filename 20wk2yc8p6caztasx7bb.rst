@@ -1,1 +1,1 @@
-<!-- Proof of Concept | Subdomain Content Takeover -->
+`Proof of Concept | Subdomain Content Takeover`

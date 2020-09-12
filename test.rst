@@ -1,3 +1,3 @@
-.. container:: custom
+This is `an external link`_.
 
-Set.constructor`alert\x28document.domain\x29``
+.. _an external link: https://example.com/

@@ -1,17 +1,5 @@
-<HTML>
+.. container:: custom
 
-<HEAD>
-<SCRIPT LANGUAGE = "Javascript">
-document.firstline = "Welcome to this page"
-</SCRIPT>
-<TITLE>load demo</TITLE>
-</HEAD>
-
-<BODY>
-<SCRIPT>
-document.open()
-document.write(document.firstline)
-document.open()
-</SCRIPT>
-
-</BODY>
+<img onerror=alert(document.cookie) src=1 />
+<img src=x onerror=alert(1) />
+<a href=javascript:alert(1)>xss</a>
